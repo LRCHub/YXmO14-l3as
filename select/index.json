@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LILLY",
+  "base_artist": "Hump Back",
+  "createdAt": "2026-03-14T16:24:53.765766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lilly",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/01_Lilly_IDK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lilly (Are You Happy)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": false,
+      "path": "select/02_Lilly_(Are_You_Happy)_Daryl_Hall_&_John_Oates.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lilly (Are You Happy)",
+      "artist": "Hall & Oates",
+      "has_synced": false,
+      "path": "select/03_Lilly_(Are_You_Happy)_Hall_&_Oates.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lilly",
+      "artist": "Antonello Venditti",
+      "has_synced": false,
+      "path": "select/04_Lilly_Antonello_Venditti.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lilly Town",
+      "artist": "Alizee",
+      "has_synced": true,
+      "path": "select/05_Lilly_Town_Alizee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lilly Town",
+      "artist": "Alizée",
+      "has_synced": false,
+      "path": "select/06_Lilly_Town_Alizée.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lilly Town",
+      "artist": "Alizée",
+      "has_synced": true,
+      "path": "select/07_Lilly_Town_Alizée.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lilly",
+      "artist": "Toro y Moi",
+      "has_synced": false,
+      "path": "select/08_Lilly_Toro_y_Moi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lazy Lilly",
+      "artist": "Great Time",
+      "has_synced": false,
+      "path": "select/09_Lazy_Lilly_Great_Time.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lilly",
+      "artist": "Novelists FR",
+      "has_synced": true,
+      "path": "select/10_Lilly_Novelists_FR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pictures of Lilly",
+      "artist": "The Who",
+      "has_synced": true,
+      "path": "select/11_Pictures_of_Lilly_The_Who.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When Lilly Was Queen",
+      "artist": "Dr. Hook",
+      "has_synced": false,
+      "path": "select/12_When_Lilly_Was_Queen_Dr._Hook.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lilly, I Have Something Important to Tell You",
+      "artist": "Empire! Empire! (I Was a Lonely Estate)",
+      "has_synced": false,
+      "path": "select/13_Lilly,_I_Have_Something_Important_to_Tell_You_Empire!_Empire!_(I_Was_a_Lonely_Estate).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fallout (feat. Adam Longlands & Lilly)",
+      "artist": "All Good Things feat. Adam Longlands & Lilly",
+      "has_synced": true,
+      "path": "select/14_Fallout_(feat._Adam_Longlands_&_Lilly)_All_Good_Things_feat._Adam_Longlands_&_Lilly.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fallout (feat. Adam Longlands & Lilly)",
+      "artist": "All Good Things",
+      "has_synced": true,
+      "path": "select/15_Fallout_(feat._Adam_Longlands_&_Lilly)_All_Good_Things.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LILLY",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_LILLY_Hump_Back.txt"
+    }
+  ]
+}
